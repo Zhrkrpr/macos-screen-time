@@ -11,9 +11,9 @@ The script reads the existing macOS `pmset` power-management log. It does not ru
           Battery Session
 ────────────────────────────────────
 
-Battery Time:        0h 16m
-Screen On Time:       0h 16m
-Screen Off Time:     0h 00m
+Battery Time:        22h 41m
+Screen On Time:       8h 15m
+Screen Off Time:     14h 25m
 
 ────────────────────────────────────
 ```
@@ -93,9 +93,9 @@ rm ~/screen_time.py
           Battery Session
 ────────────────────────────────────
 
-Battery Time:        0h 16m
-Screen On Time:       0h 16m
-Screen Off Time:     0h 00m
+Battery Time:        22h 41m
+Screen On Time:       8h 15m
+Screen Off Time:     14h 25m
 
 ────────────────────────────────────
 ```
