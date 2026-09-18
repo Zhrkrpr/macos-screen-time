@@ -7,16 +7,23 @@ The script reads the existing macOS `pmset` power-management log. It does not ru
 ## Example
 
 ```text
-Battery Time:        22h 41m
-Screen On Time:       8h 15m
-Screen Off Time:     14h 25m
+────────────────────────────────────
+          Battery Session
+────────────────────────────────────
+
+Battery Time:        0h 16m
+Screen On Time:       0h 16m
+Screen Off Time:     0h 00m
+
+────────────────────────────────────
 ```
 
 ## Requirements
 
-* macOS
 * Python 3
 * Terminal
+
+*Tested on: macOS 27 (Golden Gate).*
 
 ## Installation
 
@@ -69,10 +76,12 @@ rm ~/screen_time.py
 
 ---
 
-# Українська версія
+
+
 
 ## macOS Screen Time
 
+### 🇺🇦 Українська версія
 Невеликий скрипт для Terminal у macOS, який показує, скільки часу Mac працював від акумулятора, і розділяє цей час на періоди з увімкненим та вимкненим екраном.
 
 Скрипт читає наявний системний журнал керування живленням macOS `pmset`. Він не працює у фоновому режимі та не зберігає жодних даних.
@@ -80,16 +89,23 @@ rm ~/screen_time.py
 ## Приклад
 
 ```text
-Battery Time:        22h 41m
-Screen On Time:       8h 15m
-Screen Off Time:     14h 25m
+────────────────────────────────────
+          Battery Session
+────────────────────────────────────
+
+Battery Time:        0h 16m
+Screen On Time:       0h 16m
+Screen Off Time:     0h 00m
+
+────────────────────────────────────
 ```
 
 ## Вимоги
 
-* macOS
 * Python 3
 * Terminal
+
+*Протестовано на: macOS 27 (Golden Gate).*
 
 ## Встановлення
 
