@@ -27,7 +27,7 @@ Screen Off Time:     0h 00m
 
 ## Installation
 
-1. [Download](https://github.com/Zhrkrpr/macos-screen-time/raw/refs/heads/main/screen_time.py) `screen_time.py` from this repository.
+1. [Download](https://github.com/Zhrkrpr/macos-screen-time/releases/download/v1.0/screen_time.py) `screen_time.py` from this repository.
 2. Move the file to your home folder.
 
    In Finder, go to:
@@ -109,7 +109,7 @@ Screen Off Time:     0h 00m
 
 ## Встановлення
 
-1. Завантажте файл `screen_time.py` із цього репозиторію.
+1. [Завантажте файл](https://github.com/Zhrkrpr/macos-screen-time/releases/download/v1.0/screen_time.py) `screen_time.py` із цього репозиторію.
 2. Перемістіть файл у свою домашню папку.
 
    У Finder відкрийте:
