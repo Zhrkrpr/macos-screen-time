@@ -27,7 +27,7 @@ Screen Off Time:     0h 00m
 
 ## Installation
 
-1. Download `screen_time.py` from this repository.
+1. [Download](https://github.com/Zhrkrpr/macos-screen-time/raw/refs/heads/main/screen_time.py) `screen_time.py` from this repository.
 2. Move the file to your home folder.
 
    In Finder, go to:
