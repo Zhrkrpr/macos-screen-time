@@ -1,10 +1,11 @@
 # macOS Screen Time
 
-A small macOS Terminal utility that shows how much time you’ve spent using your Mac on battery.
+A small macOS Terminal script that shows how much time you actively used your Mac while running on battery.
 
-It shows your total time on battery and breaks it down into screen-on and screen-off time, so you can see how long you were actively using your Mac and how long it was running with the screen off.
+It shows your total battery time and separates it into screen-on and screen-off time, giving you a simple way to see your actual screen time during a battery session.
 
-The utility uses the built-in macOS `pmset` power-management log. It runs only when you launch it and does not run in the background or store any data.
+The script uses the built-in macOS `pmset` power-management log. It only runs when you launch it and does not run in the background or store any data.
+
 
 ## Example
 
