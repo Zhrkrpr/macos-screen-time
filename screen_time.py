@@ -189,8 +189,8 @@ def print_power_status():
 
 def print_battery_session(battery_seconds, screen_on_seconds, screen_off_seconds):
     print()
-    print(SEPARATOR)
-    print("Battery Usage".center(len(SEPARATOR)))
+    print(SEPARATOR
+    print("Screen Time".center(len(SEPARATOR)))
     print(SEPARATOR)
     print()
     print(f"{'Battery Time:':<21}{format_duration(battery_seconds)}")
