@@ -11,7 +11,7 @@ The script uses the built-in macOS `pmset`  power-management log. It does not ru
 
 ```text
 ────────────────────────────────────
-          Battery Usage
+          Screen Time
 ────────────────────────────────────
 
 Battery Time:        22h 41m
